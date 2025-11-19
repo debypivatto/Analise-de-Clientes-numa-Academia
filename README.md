@@ -2,7 +2,7 @@
 
 ## 🎯 Objetivo da Análise 
 A tarefa é analisar clientes da academia e vir com uma estratégia de retenção de clientes.
-Aprender a predizer a probabilidade de rotatividade (para o mês seguinte) para cada cliente
+Aprender a predizer a probabilidade de rotatividade (para o mês seguinte) para cada cliente.
 Elaborar retratos de usuários típicos: selecione os grupos mais marcantes e descreva suas principais características
 Analisar os fatores que mais impactam a rotatividade
 
