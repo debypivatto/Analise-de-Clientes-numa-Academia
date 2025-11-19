@@ -24,3 +24,9 @@ Recomendações de Retenção
 7. Investir em Aulas em Grupo e Comunidade
 8. Aumentar a oferta de aulas coletivas (yoga, HIIT, jump, pump, etc)
 9. Promover eventos e desafios comunitários mensais para fortalecer o senso de pertencimento e uniao
+
+## 🛠️ Tecnologias e Bibliotecas Utilizadas
+- **Python**  
+- **Pandas** — manipulação de dados  
+- **Jupyter Notebook** — ambiente de análise
+- **SKlearn**
